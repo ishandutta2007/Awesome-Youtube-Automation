@@ -64,108 +64,108 @@ The following table lists leading commercial platforms for YouTube automation, *
 
 ## 💻 Top Open-Source Projects & Frameworks
 
-The following open-source tools power modern, self-hosted YouTube automation and generative video pipelines. **Sorted in descending order by GitHub star count**.
+The following open-source tools power modern, self-hosted YouTube automation and generative video pipelines. **Sorted in descending order by GitHub Stars_Count**.
 
-1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
    *Fair-code workflow automation engine with 400+ nodes, visual canvas, custom JavaScript/Python execution, and AI Agent integrations. The ultimate self-hosted pipeline orchestrator for triggering video rendering, cloud uploads, and YouTube Data API publishing without task fees.*
 
-2. **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** [![GitHub stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social&color=white)](https://github.com/yt-dlp/yt-dlp/stargazers)  
+2. **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** [![GitHub_Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social&color=white)](https://github.com/yt-dlp/yt-dlp/stargazers)  
    *The gold-standard command-line audio/video extraction tool supporting YouTube and thousands of media sites. Crucial for automated competitor research, archival pipelines, audio extraction, and training datasets.*
 
-3. **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+3. **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
    *Autonomous AI agent framework capable of executing multi-step research plans, synthesizing trending YouTube video topics, writing narrative scripts, and invoking external editing CLI tools.*
 
-4. **[Ollama](https://github.com/ollama/ollama)** [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
+4. **[Ollama](https://github.com/ollama/ollama)** [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
    *Lightweight, blazing-fast engine to run open-weight large language models (Llama 3, Mistral, DeepSeek) locally on your GPU/CPU. Generates high-converting video scripts, YouTube descriptions, and viral hook variants privately with zero token costs.*
 
-5. **[Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** [![GitHub stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers)  
+5. **[Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** [![GitHub_Stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers)  
    *The seminal browser-based interface and REST API for Stable Diffusion models. Automates batch generation of high-CTR YouTube thumbnails, visual storyboards, and custom avatar assets.*
 
-6. **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
+6. **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub_Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
    *Extensible, feature-rich self-hosted interface for local and cloud LLMs with custom pipeline hooks, multi-user management, and retrieval-augmented generation (RAG) for deep content research.*
 
-7. **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** [![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=social&color=white)](https://github.com/Comfy-Org/ComfyUI/stargazers)  
+7. **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** [![GitHub_Stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=social&color=white)](https://github.com/Comfy-Org/ComfyUI/stargazers)  
    *Modular, node-based diffusion architecture for generative image and video pipelines. Supports SDXL, Flux, ControlNet, IP-Adapter, and AnimateDiff for programmatic thumbnail design and B-roll generation.*
 
-8. **[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** [![GitHub stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=social&color=white)](https://github.com/harry0703/MoneyPrinterTurbo/stargazers)  
+8. **[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** [![GitHub_Stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=social&color=white)](https://github.com/harry0703/MoneyPrinterTurbo/stargazers)  
    *One-click automated HD short-video generator. Input a single topic or script, and it autonomously handles LLM scripting, video material sourcing, subtitle generation, background music blending, and final export (9:16 and 16:9). Supports Docker and local/cloud LLMs.*
 
-9. **[Whisper](https://github.com/openai/whisper)** [![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers)  
+9. **[Whisper](https://github.com/openai/whisper)** [![GitHub_Stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers)  
    *OpenAI's robust speech recognition model trained on 680,000 hours of multilingual data. Transcribes spoken video audio with high timestamp precision for automated YouTube closed-captions and multi-language dubbing.*
 
-10. **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
+10. **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub_Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
     *The industry-standard multimedia framework for recording, transcoding, filtering, and streaming video/audio. The core rendering backbone inside almost every video automation platform and script.*
 
-11. **[Remotion](https://github.com/remotion-dev/remotion)** [![GitHub stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
+11. **[Remotion](https://github.com/remotion-dev/remotion)** [![GitHub_Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
     *Programmatic video rendering engine powered by React. Write CSS, React components, and motion graphics to render thousands of individualized YouTube videos, dynamic leaderboards, and data visualizations via CI/CD.*
 
-12. **[Coqui TTS](https://github.com/coqui-ai/TTS)** [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers)  
+12. **[Coqui TTS](https://github.com/coqui-ai/TTS)** [![GitHub_Stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers)  
     *Deep learning toolkit for advanced text-to-speech with high-fidelity voice cloning, emotional inflection, and 1,100+ pre-trained models across 110+ languages. Perfect for realistic faceless channel narration.*
 
-13. **[ChatTTS](https://github.com/2noise/ChatTTS)** [![GitHub stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social&color=white)](https://github.com/2noise/ChatTTS/stargazers)  
+13. **[ChatTTS](https://github.com/2noise/ChatTTS)** [![GitHub_Stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social&color=white)](https://github.com/2noise/ChatTTS/stargazers)  
     *Conversational neural speech synthesis model engineered for conversational scenarios, podcasts, and video voiceovers with natural laughter, interjections, and prosody.*
 
-14. **[Bark](https://github.com/suno-ai/bark)** [![GitHub stars](https://img.shields.io/github/stars/suno-ai/bark?style=social&color=white)](https://github.com/suno-ai/bark/stargazers)  
+14. **[Bark](https://github.com/suno-ai/bark)** [![GitHub_Stars](https://img.shields.io/github/stars/suno-ai/bark?style=social&color=white)](https://github.com/suno-ai/bark/stargazers)  
     *Transformer-based audio model capable of generating expressive speech, background noise, music, and sound effects from text prompts.*
 
-15. **[Diffusers](https://github.com/huggingface/diffusers)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social&color=white)](https://github.com/huggingface/diffusers/stargazers)  
+15. **[Diffusers](https://github.com/huggingface/diffusers)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social&color=white)](https://github.com/huggingface/diffusers/stargazers)  
     *Hugging Face's modular library for state-of-the-art pretrained diffusion models, providing Python APIs for programmatic text-to-image and text-to-video synthesis pipelines.*
 
-16. **[MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** [![GitHub stars](https://img.shields.io/github/stars/FujiwaraChoki/MoneyPrinterV2?style=social&color=white)](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers)  
+16. **[MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** [![GitHub_Stars](https://img.shields.io/github/stars/FujiwaraChoki/MoneyPrinterV2?style=social&color=white)](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers)  
     *Complete automation engine for YouTube Shorts and online media, featuring modular tasks, automated CRON scheduling, speech synthesis, and video stitching.*
 
-17. **[Open-Sora](https://github.com/hpcaitech/Open-Sora)** [![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social&color=white)](https://github.com/hpcaitech/Open-Sora/stargazers)  
+17. **[Open-Sora](https://github.com/hpcaitech/Open-Sora)** [![GitHub_Stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social&color=white)](https://github.com/hpcaitech/Open-Sora/stargazers)  
     *Open-source democratization of high-quality diffusion transformer video generation. Generates photorealistic AI video clips for dynamic B-roll and visual storytelling.*
 
-18. **[Faster-Whisper](https://github.com/SYSTRAN/faster-whisper)** [![GitHub stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social&color=white)](https://github.com/SYSTRAN/faster-whisper/stargazers)  
+18. **[Faster-Whisper](https://github.com/SYSTRAN/faster-whisper)** [![GitHub_Stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social&color=white)](https://github.com/SYSTRAN/faster-whisper/stargazers)  
     *Reimplementation of OpenAI's Whisper model using CTranslate2, delivering up to 4x speedups and reduced VRAM consumption for ultra-fast automated subtitle generation.*
 
-19. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+19. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
     *Open-source, no-code workflow automation engine with 600+ integrations and AI agent builders. An MIT-licensed self-hosted alternative to Zapier for orchestrating YouTube publishing queues.*
 
-20. **[PyVideoTrans](https://github.com/jianchang512/pyvideotrans)** [![GitHub stars](https://img.shields.io/github/stars/jianchang512/pyvideotrans?style=social&color=white)](https://github.com/jianchang512/pyvideotrans/stargazers)  
+20. **[PyVideoTrans](https://github.com/jianchang512/pyvideotrans)** [![GitHub_Stars](https://img.shields.io/github/stars/jianchang512/pyvideotrans?style=social&color=white)](https://github.com/jianchang512/pyvideotrans/stargazers)  
     *Open-source video translation and dubbing tool that transcribes existing videos, translates text to any language, synthesizes new localized voiceovers, and generates synchronized bilingual subtitles.*
 
-21. **[VideoLingo](https://github.com/Huanshere/VideoLingo)** [![GitHub stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social&color=white)](https://github.com/Huanshere/VideoLingo/stargazers)  
+21. **[VideoLingo](https://github.com/Huanshere/VideoLingo)** [![GitHub_Stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social&color=white)](https://github.com/Huanshere/VideoLingo/stargazers)  
     *All-in-one Netflix-grade video subtitle localization, translation, and automated dubbing system. Uses NLP segmenting, Whisper transcription, and personalized voice matching for global YouTube reach.*
 
-22. **[MoviePy](https://github.com/Zulko/moviepy)** [![GitHub stars](https://img.shields.io/github/stars/Zulko/moviepy?style=social&color=white)](https://github.com/Zulko/moviepy/stargazers)  
+22. **[MoviePy](https://github.com/Zulko/moviepy)** [![GitHub_Stars](https://img.shields.io/github/stars/Zulko/moviepy?style=social&color=white)](https://github.com/Zulko/moviepy/stargazers)  
     *Python library for programmatic video editing, cut transitions, title overlays, audio track compositing, and automated custom video generation.*
 
-23. **[Instaloader](https://github.com/instaloader/instaloader)** [![GitHub stars](https://img.shields.io/github/stars/instaloader/instaloader?style=social&color=white)](https://github.com/instaloader/instaloader/stargazers)  
+23. **[Instaloader](https://github.com/instaloader/instaloader)** [![GitHub_Stars](https://img.shields.io/github/stars/instaloader/instaloader?style=social&color=white)](https://github.com/instaloader/instaloader/stargazers)  
     *Python tool to download public pictures, Reels, and metadata from Instagram for cross-platform content repurposing and trend analysis.*
 
-24. **[Pytube](https://github.com/pytube/pytube)** [![GitHub stars](https://img.shields.io/github/stars/pytube/pytube?style=social&color=white)](https://github.com/pytube/pytube/stargazers)  
+24. **[Pytube](https://github.com/pytube/pytube)** [![GitHub_Stars](https://img.shields.io/github/stars/pytube/pytube?style=social&color=white)](https://github.com/pytube/pytube/stargazers)  
     *Lightweight, dependency-free Python library for downloading YouTube videos, fetching stream metadata, and parsing playlist URLs.*
 
-25. **[CogVideo](https://github.com/zai-org/CogVideo)** [![GitHub stars](https://img.shields.io/github/stars/zai-org/CogVideo?style=social&color=white)](https://github.com/zai-org/CogVideo/stargazers)  
+25. **[CogVideo](https://github.com/zai-org/CogVideo)** [![GitHub_Stars](https://img.shields.io/github/stars/zai-org/CogVideo?style=social&color=white)](https://github.com/zai-org/CogVideo/stargazers)  
     *State-of-the-art open-source text-to-video generative model (CogVideoX) producing fluid, coherent video sequences for AI-generated B-roll.*
 
-26. **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** [![GitHub stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social&color=white)](https://github.com/guoyww/AnimateDiff/stargazers)  
+26. **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** [![GitHub_Stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social&color=white)](https://github.com/guoyww/AnimateDiff/stargazers)  
     *Animation framework that inserts motion modeling modules into existing text-to-image diffusion models to generate stylized animated shorts.*
 
-27. **[Edge-TTS](https://github.com/rany2/edge-tts)** [![GitHub stars](https://img.shields.io/github/stars/rany2/edge-tts?style=social&color=white)](https://github.com/rany2/edge-tts/stargazers)  
+27. **[Edge-TTS](https://github.com/rany2/edge-tts)** [![GitHub_Stars](https://img.shields.io/github/stars/rany2/edge-tts?style=social&color=white)](https://github.com/rany2/edge-tts/stargazers)  
     *Python module to communicate with Microsoft Edge's online text-to-speech service without an API key or Azure subscription, offering zero-cost, high-clarity neural voiceovers.*
 
-28. **[Piper](https://github.com/rhasspy/piper)** [![GitHub stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers)  
+28. **[Piper](https://github.com/rhasspy/piper)** [![GitHub_Stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers)  
     *Fast, local neural text-to-speech engine running with low latency on low-resource machines and Raspberry Pis, ideal for lightweight batch narration.*
 
-29. **[Google APIs Python Client](https://github.com/googleapis/google-api-python-client)** [![GitHub stars](https://img.shields.io/github/stars/googleapis/google-api-python-client?style=social&color=white)](https://github.com/googleapis/google-api-python-client/stargazers)  
+29. **[Google APIs Python Client](https://github.com/googleapis/google-api-python-client)** [![GitHub_Stars](https://img.shields.io/github/stars/googleapis/google-api-python-client?style=social&color=white)](https://github.com/googleapis/google-api-python-client/stargazers)  
     *Official Google client library providing programmatic access to the YouTube Data API v3 for uploading videos, managing playlists, and retrieving channel analytics.*
 
-30. **[ShortGPT](https://github.com/RayVentura/ShortGPT)** [![GitHub stars](https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social&color=white)](https://github.com/RayVentura/ShortGPT/stargazers)  
+30. **[ShortGPT](https://github.com/RayVentura/ShortGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social&color=white)](https://github.com/RayVentura/ShortGPT/stargazers)  
     *Experimental automation framework for short-form content creation, handling voiceover generation, media asset scraping, automated captioning, and multi-language exports.*
 
-31. **[MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus)** [![GitHub stars](https://img.shields.io/github/stars/ddean2009/MoneyPrinterPlus?style=social&color=white)](https://github.com/ddean2009/MoneyPrinterPlus/stargazers)  
+31. **[MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus)** [![GitHub_Stars](https://img.shields.io/github/stars/ddean2009/MoneyPrinterPlus?style=social&color=white)](https://github.com/ddean2009/MoneyPrinterPlus/stargazers)  
     *Enhanced multi-threaded video generation pipeline offering customizable video prompts, batch generation modes, and rich subtitle formatting.*
 
-32. **[Auto-Editor](https://github.com/WyattBlue/auto-editor)** [![GitHub stars](https://img.shields.io/github/stars/WyattBlue/auto-editor?style=social&color=white)](https://github.com/WyattBlue/auto-editor/stargazers)  
+32. **[Auto-Editor](https://github.com/WyattBlue/auto-editor)** [![GitHub_Stars](https://img.shields.io/github/stars/WyattBlue/auto-editor?style=social&color=white)](https://github.com/WyattBlue/auto-editor/stargazers)  
     *Command-line tool that automatically edits videos by analyzing audio decibel levels to trim out silent pauses, dead air, and filler sections without human intervention.*
 
-33. **[OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)** [![GitHub stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenTimelineIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenTimelineIO/stargazers)  
+33. **[OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)** [![GitHub_Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenTimelineIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenTimelineIO/stargazers)  
     *Pixar-originated open interchange format and API for editorial timeline data, enabling scripted automation between Python scripts and professional NLEs (Premiere, DaVinci Resolve).*
 
-34. **[YouTubeUploader](https://github.com/porjo/youtubeuploader)** [![GitHub stars](https://img.shields.io/github/stars/porjo/youtubeuploader?style=social&color=white)](https://github.com/porjo/youtubeuploader/stargazers)  
+34. **[YouTubeUploader](https://github.com/porjo/youtubeuploader)** [![GitHub_Stars](https://img.shields.io/github/stars/porjo/youtubeuploader?style=social&color=white)](https://github.com/porjo/youtubeuploader/stargazers)  
     *Headless command-line tool written in Go to automatically upload video files to YouTube with metadata tags, playlists, and OAuth2 token handling.*
 
 ---
@@ -208,7 +208,7 @@ Contributions from developers and creators are welcome! To propose a new SaaS pr
 2. Check existing entries to prevent duplicates.
 3. Follow the established formatting conventions:
    - For **SaaS**: Include accurate starting tier pricing, specific free tier/trial limits, and company scale.
-   - For **Open-Source**: Include the social-style star badge linked to stargazers and place in the correct star-count sorted position.
+   - For **Open-Source**: Include the social-style Stars_Badge linked to stargazers and place in the correct star-count sorted position.
 4. Open a **Pull Request** with a concise summary of the addition.
 
 ---
