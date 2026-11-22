@@ -168,6 +168,9 @@ The following open-source tools power modern, self-hosted YouTube automation and
 34. **[YouTubeUploader](https://github.com/porjo/youtubeuploader)** [![GitHub_Stars](https://img.shields.io/github/stars/porjo/youtubeuploader?style=social&color=white)](https://github.com/porjo/youtubeuploader/stargazers)  
     *Headless command-line tool written in Go to automatically upload video files to YouTube with metadata tags, playlists, and OAuth2 token handling.*
 
+35. **[Clips Kitty](https://github.com/ColinGPT9/clips-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/ColinGPT9/clips-studio?style=social&color=white)](https://github.com/ColinGPT9/clips-studio/stargazers)  
+    *Free, open-source Windows desktop app that turns long YouTube, Twitch and Kick videos into captioned 9:16 Shorts on your own PC (Whisper transcription, local-LLM highlight picking and speaker-tracking framing), then schedules them to YouTube and TikTok. Ships an MCP server so AI agents such as Claude can run the pipeline.*
+
 ---
 
 ## 🏗️ Recommended End-to-End Self-Hosted Architecture
